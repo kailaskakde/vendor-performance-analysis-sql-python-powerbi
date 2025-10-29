@@ -156,7 +156,6 @@ python scripts/get_vendor_summary.py
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 **Kailas Kakde**  
 📊 *Data Analyst | Power BI | SQL | Python | Excel*  
-
 📧 **Email:** [kakdekailas0@gamilcom]  
 🌐 **LinkedIn:** [linkedin.com/in/kailaskakde](https://www.linkedin.com/in/kailas-kakde-b62ab2289/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzqKAPwn%2FRveb54LeU8JNiQ%3D%3D)  
 
