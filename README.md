@@ -154,8 +154,6 @@ python scripts/get_vendor_summary.py
 
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
-
-## 👤 **Author & Contact**
 **Kailas Kakde**  
 📊 *Data Analyst | Power BI | SQL | Python | Excel*  
 
